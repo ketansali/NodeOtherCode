@@ -1,0 +1,21 @@
+{
+  "name": "codfirst",
+  "version": "1.0.0",
+  "description": "CodeFirst-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test "
+  },
+  "keywords": [
+    "nodejs",
+    "codefirst",
+    "mssql"
+  ],
+  "author": "Nayan-Raval",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "sequelize": "^6.17.0",
+    "tedious": "^14.3.0"
+  }
+}
